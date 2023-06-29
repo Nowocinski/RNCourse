@@ -6,7 +6,7 @@ function GoalItems(props) {
           <Text style={styles.goalText}>
             {props.text}
           </Text>
-        </View>)
+        </View>);
 }
 
 const styles = StyleSheet.create({
